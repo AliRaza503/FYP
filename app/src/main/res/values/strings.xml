@@ -1,0 +1,17 @@
+<resources>
+    <string name="app_name">FYP</string>
+    <string name="action_settings">Settings</string>
+    <!-- Strings used for fragments for navigation -->
+    <string name="main_fragment_label">Main Screen</string>
+    <string name="camera_fragment_label">Camera</string>
+    <string name="next">Next</string>
+    <string name="previous">Previous</string>
+
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="share">Share</string>
+    <string name="delete">Delete</string>
+    <string name="remaining_image_indices">Remaining images indices in current go</string>
+    <string name="guiding_text">1. Click + to add images.\n2. Guiding images are shown in the corner.\n3. After adding images click the share button to share all the images at once using gmail or whatsapp.\n4. Long click an image item to delete and retake.</string>
+    <string name="dummy_button">Dummy Button</string>
+    <string name="dummy_content">DUMMY\nCONTENT</string>
+</resources>
